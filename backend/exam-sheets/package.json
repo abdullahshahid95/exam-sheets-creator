@@ -1,0 +1,20 @@
+{
+  "name": "exam-sheets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "fastify": "^3.29.1",
+    "fastify-cors": "^6.1.0",
+    "joi": "^17.7.1",
+    "mongoose": "^6.9.1"
+  }
+}
